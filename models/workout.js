@@ -34,8 +34,8 @@ const exerciseSchema = new Schema({
 const workoutSchema = new Schema({
   day: {
       type: Date,
-      required: "A date is required"
-
+      required: "A date is required",
+      default: Date.now()
   },
   exercises: {
       type: [exerciseSchema],
