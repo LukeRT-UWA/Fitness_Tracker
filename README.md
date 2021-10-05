@@ -1,4 +1,4 @@
-# E-Commerce Back End
+# Fitness Tracker
 ![MIT](https://img.shields.io/badge/MIT-Licensed-green)
 
 ## Description
